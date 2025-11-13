@@ -1,0 +1,22 @@
+{
+  "name": "ModuleCenter",
+  "version": "0.1.0",
+  "summary": "组件中心，提供组件注册功能，并声明所有组件提供的服务（接口），供组件间调用。",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/MrLfm/ModuleCenter",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "MrLfm": "lfm_1992@126.com"
+  },
+  "source": {
+    "git": "https://github.com/MrLfm/ModuleCenter.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "ModuleCenter/Classes/**/*"
+}

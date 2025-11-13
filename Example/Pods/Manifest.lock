@@ -1,0 +1,16 @@
+PODS:
+  - ModuleCenter (0.1.0)
+
+DEPENDENCIES:
+  - ModuleCenter (from `../`)
+
+EXTERNAL SOURCES:
+  ModuleCenter:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ModuleCenter: 0bf60666fbdcec0d8868aef7c6d9f4e7eff84c1f
+
+PODFILE CHECKSUM: c9f07f11da50985a310f35cb2015e59fb5eceb4b
+
+COCOAPODS: 1.16.2

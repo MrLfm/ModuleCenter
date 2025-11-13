@@ -1,0 +1,6 @@
+framework module ModuleCenter {
+  umbrella header "ModuleCenter-umbrella.h"
+
+  export *
+  module * { export * }
+}
