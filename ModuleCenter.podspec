@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'ModuleCenter'
-  s.version          = '0.1.0'
+  s.version          = '0.1.1'
   s.summary          = '组件中心，提供组件注册功能，并声明所有组件提供的服务（接口），供组件间调用。'
 
   s.homepage         = 'https://github.com/MrLfm/ModuleCenter'

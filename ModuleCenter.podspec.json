@@ -1,6 +1,6 @@
 {
   "name": "ModuleCenter",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "组件中心，提供组件注册功能，并声明所有组件提供的服务（接口），供组件间调用。",
   "homepage": "https://github.com/MrLfm/ModuleCenter",
   "license": {
